@@ -1,3 +1,4 @@
+#Social Media Website
 My website is a photo-sharing website where users that are signed in can upload photos with an optional caption and if it is successful, it will post the image on the front page and the caption will be shown when the photo is clicked on, along with the users username. The purpose is to share photos, each with their own url, so it can also be used as an image hosting website. The target audience is anyone that enjoys photography, memes, or any types of photos. The entire website is mobile responsive.
 
 1.	All of my pages contain the 5 required HTML tags and I did not use any tables in my application. For example in greetings.php, I used !DOCTYPE, html,head,title, and body throughout the page. 
