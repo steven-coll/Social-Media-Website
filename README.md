@@ -1,4 +1,4 @@
-#Social Media Website
+Social Media Website
 My website is a photo-sharing website where users that are signed in can upload photos with an optional caption and if it is successful, it will post the image on the front page and the caption will be shown when the photo is clicked on, along with the users username. The purpose is to share photos, each with their own url, so it can also be used as an image hosting website. The target audience is anyone that enjoys photography, memes, or any types of photos. The entire website is mobile responsive.
 
 1.	All of my pages contain the 5 required HTML tags and I did not use any tables in my application. For example in greetings.php, I used !DOCTYPE, html,head,title, and body throughout the page. 
@@ -30,18 +30,3 @@ My website is a photo-sharing website where users that are signed in can upload 
 14.	I use bootstrap interface elements. For example on login.php line 39, I used bootstrap’s col-md class that sizes elements responsively. 
 
 15.	I utilize AJAX on web.js line 6-24, it retrieves a message in my message.xml and prints it on my about.php saying “message from the developer:” with the xml data appended. This is so I can write easy messages about my website and it updates immediately. 
-
-
-References:
-
-I learned how to do responsive bootstrap navbars on https://www.w3schools.com/bootstrap/bootstrap_navbar.asp
-And from my web development internship.
-
-I had help with my log in page and register page from the code from the lectures and from
- https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php  
-
-I had help with my flip cards on index.php from 
-https://www.w3schools.com/howto/howto_css_flip_card.asp but I changed it so it flips on click and not on hover.
-
-I had help with my javascript image preview function from 
-https://stackoverflow.com/questions/4459379/preview-an-image-before-it-is-uploaded
